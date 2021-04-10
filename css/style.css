@@ -1,0 +1,44 @@
+*{
+    margin: 0 ;
+    padding: 0;
+    box-sizing:border-box;
+    }
+
+.form-register{
+width: 400px ;
+background-color:teal;
+padding: 30px;
+margin: auto;
+margin-top: 80px;
+border-radius: 4px;
+font-family:'calibri';
+color:white;
+}
+.form-register h4{
+    font-size:22px ;
+    margin-bottom: 20px;
+}
+.controls{
+    width: 100%;
+    background-color:white;
+    padding: 10 px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+}
+.form-register .botons{
+    width: 100%;
+    background:lightblue ;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16 px 6;
+}
+.form-register a{
+    color:white;
+    text-decoration: none;
+     }
+
+.form-register a  :hover{
+    color:white;
+    text-decoration: underline;
+     }
